@@ -4,7 +4,11 @@ Joins
 
 Windows Functions
 
-Rank
+Rank Functions
+
+Joins  
+
+Statistical Functions 
 
 Co-Related Sub Queries
 
