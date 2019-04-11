@@ -12,12 +12,12 @@ Remember that a correlated subquery is a subquery that uses values from the oute
 
 And note that, even though NULL can work in this context as a “constant”, it’s very confusing!
 
-SELECT driverslicensenr, name                                   
+__SELECT driverslicensenr, name                                   
  FROM Drivers                                             
  WHERE EXISTS                                             
         (SELECT '1'                                              
         FROM Fines                                               
-        WHERE fines.driverslicensenr = drivers.driverslicensenr); 
+        WHERE fines.driverslicensenr = drivers.driverslicensenr);__
         
         
         
