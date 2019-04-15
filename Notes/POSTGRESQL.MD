@@ -1,10 +1,20 @@
 ## _Data Types_
 
-# Primitives: Integer, Numeric, String, Boolean
-# Structured: Date/Time, Array, Range, UUID
-# Document: JSON/JSONB, XML, Key-value (Hstore)
-# Geometry: Point, Line, Circle, Polygon
-# Customizations: Composite, Custom Types
+# Primitives:
+
+Integer, Numeric, String, Boolean
+
+# Structured: 
+Date/Time, Array, Range, UUID
+
+# Document: 
+JSON/JSONB, XML, Key-value (Hstore)
+
+# Geometry: 
+Point, Line, Circle, Polygon
+
+# Customizations: 
+Composite, Custom Types
 
 ## Data Integrity
 
