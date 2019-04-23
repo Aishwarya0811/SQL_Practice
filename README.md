@@ -1,19 +1,19 @@
 # SQL_Practice
 
-Joins
+. Joins
 
-Windows Functions
+. Windows Functions
 
-Rank Functions
+. Rank Functions
 
-Joins  
+. Joins  
 
-Statistical Functions 
+. Statistical Functions 
 
-Co-Related Sub Queries
+. Co-Related Sub Queries
 
-Views
+. Views
 
-Temporary Tables
+. Temporary Tables
 
-Performance Tuning
+. Performance Tuning
